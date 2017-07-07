@@ -34,7 +34,7 @@
 						'<div class="modal-header" style="display: none;"></div>' +
 						'<div class="modal-body">' +
 							'<div class="progress progress-striped active" style="margin-bottom:0;">' +
-								'<div class="progress-bar" style="width: 100%"></div>' +
+								'<div class="progress-bar" style="width: 0%"></div>' +
 							'</div>' +
 						'</div>' +
 					'</div>' +
